@@ -1,0 +1,7 @@
+apiVersion: v1
+name: sona-app
+description: A Helm chart for Sonar & Postgress
+version: 1.0.0
+appVersion: 8.9.1
+
+

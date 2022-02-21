@@ -1,0 +1,5 @@
+image:
+  repository: sonarqube:8.9.1-community
+
+nameoverride: sonar
+fullnameOverride: sonar-app
